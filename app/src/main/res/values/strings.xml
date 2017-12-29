@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentManager</string>
+    <string name="o_courses">o Courses :</string>
+    <string name="o_contact_numbers">o Contact Numbers :</string>
+</resources>
